@@ -1,0 +1,3 @@
+# Improved syntax highlights
+include "~/.nano/c.nanorc"
+include "~/.nano/makefile.nanorc"
